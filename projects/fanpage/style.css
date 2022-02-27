@@ -8,7 +8,7 @@ body { background: rgb(236, 159, 236)
 h1,h2,h3,h4,h5,h5,p {
   margin;0  
 }
-header { background:rgb(136, 38, 136);
+header { background:rgb(187, 74, 187);
     text-align: center;
 }
 
@@ -17,11 +17,23 @@ h2 {
 }
 
 footer { 
-    background: rgb(136, 38, 136);
-    
+    background: rgb(187, 74, 187);
+    text-align: center;
 }
 
 text {
     margin: 0 auto;
 }
 
+img {
+    width: 100%;
+    max-width: 850px;
+    margin: 0 auto;
+    display: block;
+}
+
+section {
+    background: rgb(120, 191, 221);
+    max-width: 106ch;
+    margin: 0 auto;
+}
