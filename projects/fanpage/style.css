@@ -1,0 +1,16 @@
+/* Write all your custom CSS below this line  */
+
+body { background: rgb(236, 159, 236)
+}
+    margin: 0;
+}
+
+header { 
+    background: rgb(136, 38, 136);
+text-align: center;
+}
+
+footer { 
+    background: rgb(136, 38, 136);
+    
+}
