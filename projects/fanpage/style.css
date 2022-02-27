@@ -5,12 +5,23 @@ body { background: rgb(236, 159, 236)
     margin: 0;
 }
 
-header { 
-    background: rgb(136, 38, 136);
-text-align: center;
+h1,h2,h3,h4,h5,h5,p {
+  margin;0  
+}
+header { background:rgb(136, 38, 136);
+    text-align: center;
+}
+
+h2 {
+    margin: 1em 0;
 }
 
 footer { 
     background: rgb(136, 38, 136);
     
 }
+
+text {
+    margin: 0 auto;
+}
+
