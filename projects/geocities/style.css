@@ -1,0 +1,82 @@
+
+
+
+
+body{
+    margin: 0;
+    background-color: bisque;
+    background-image: url(https://web.archive.org/web/20091027054721/http://geocities.com/fictionfreak_vishnupriya/starbackground.gif)
+}
+
+
+
+h1{
+    text-align: center;
+    margin: opx;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(194, 104, 194);
+    background-color: rgb(210, 175, 211);
+    
+
+}
+
+h2{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(238, 183, 226);
+    background-color: rgb(189, 136, 219);
+    padding: 10px 10px 10px 10 px;
+    text-align:center;
+    text-shadow: 2px 2px rgb(160, 18, 165);
+    
+}
+
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    text-align: center
+    
+    ;
+}
+
+text {
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    display: block;
+
+}
+
+
+p{
+    font-size: 2rem;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 20px 20px 20px;
+
+}
+
+
+.mc1{
+    width: 621px;
+    height: 416px;
+    padding-left: 950px;
+    padding-bottom: 20px;
+
+}
+.img2{
+    width: 300px;
+    height: 200px;
+    left: 100px;
+    top: 300px;
+}
+
+
+.gif3{
+    position: absolute;
+}
