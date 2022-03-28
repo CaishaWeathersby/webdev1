@@ -12,3 +12,11 @@ left: 50%;
 top: 50%;
 transform: translate (-50%, -50%);
 }
+
+#waiting {
+    background: purple;
+}
+
+#loading {
+    background:orange;
+}
